@@ -2,7 +2,7 @@
 Contributors: Ashworth Creative
 Tags: admin, hierarchical, manage, menu_order, order, ordering, page, pages, page order, increment, re-order, reorder, order posts, reorder posts
 Requires at least: 3.4.2
-Tested up to: 3.4.2
+Tested up to: 3.9
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
